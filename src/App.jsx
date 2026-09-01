@@ -1,6 +1,4 @@
-import React from 'react'
 import Section1 from './Components/Section 1/Section1'
-import Section2 from './Components/Section 2/Section2'
 
 const users= [
   {

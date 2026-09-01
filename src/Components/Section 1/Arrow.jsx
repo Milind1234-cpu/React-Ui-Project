@@ -1,7 +1,7 @@
 const Arrow = () => {
     return (
-        <div className='text-8xl'>
-            <i class="ri-arrow-right-up-line"></i>
+        <div className='text-6xl sm:text-8xl'>
+            <i className="ri-arrow-right-up-line"></i>
         </div>
     )
 }

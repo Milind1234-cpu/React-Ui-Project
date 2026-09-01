@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Section2 = () => {
   return (
     <div className='bg-teal-500 h-screen w-full'>
